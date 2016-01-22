@@ -11,6 +11,6 @@ System.out.println("value is:"+ c);
 System.out.println("value is :"+ d);
 System.out.println("value is :"+ e);
 System.out.println("value is:"+ f);
-
+System.out.println("value is:"+ f);
 }
 }

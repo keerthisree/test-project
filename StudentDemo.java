@@ -8,6 +8,7 @@ String phone="123456";
 public void display()
 {
 System.out.println("student details:" +id +" " +name+" "+phone);
+System.out.println("student details:" +id +" " +name+" "+phone);
 }
 }
 
